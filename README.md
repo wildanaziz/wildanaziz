@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @wildanaziz
-- 👀 I’m interested in Java and Web Beginner
-- 🌱 I’m currently learning Front End Web
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on @KweeksNews
-- 📫 How to reach me on Instagram @danwildann_
+- 📫 How to reach me on Instagram @wildannaziz
 
 <!---
 wildanaziz/wildanaziz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
