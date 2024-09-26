@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wildanaziz
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on @KweeksNews
+- 🌱 I’m interest to MLOps and many things
+- 💞️ I’m looking to collaborate on @KweeksNews and @Quipkit
 - 📫 How to reach me on Instagram @wildannaziz
 
 <!---
