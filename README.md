@@ -1,4 +1,10 @@
-👋 Hi, I’m @wildanaziz, 🌱 I’m interest to MLOps and many things, 💞️ I’m looking to collaborate on @KweeksNews and @Quipkit, 📫 How to reach me on Instagram @wildannaziz
+<h1 align="center">👋 Hi, I’m @wildanaziz</h1>
+<p align="center">
+  🌱 I’m interested in <strong>MLOps</strong> and many exciting things.<br>
+  💞️ I’m looking to collaborate on <a href="https://github.com/KweeksNews">@KweeksNews</a> and <a href="https://github.com/Quipkit-Space">@Quipkit</a>.<br>
+  📫 Reach me on Instagram: <a href="https://instagram.com/wildannaziz">@wildannaziz</a>.
+</p>
+
 
 <h2 align="center">Statistics</h2>
 
@@ -21,7 +27,7 @@
   
 
 
-<h3 align="center">OS</h3>
+<h2 align="center">OS</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
