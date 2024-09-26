@@ -1,7 +1,4 @@
-👋 Hi, I’m @wildanaziz
-🌱 I’m interest to MLOps and many things
-💞️ I’m looking to collaborate on @KweeksNews and @Quipkit
-📫 How to reach me on Instagram @wildannaziz
+👋 Hi, I’m @wildanaziz, 🌱 I’m interest to MLOps and many things, 💞️ I’m looking to collaborate on @KweeksNews and @Quipkit, 📫 How to reach me on Instagram @wildannaziz
 
 <h2 align="center">Statistics</h2>
 
