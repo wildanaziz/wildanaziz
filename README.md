@@ -2,7 +2,7 @@
 <p align="center">
   🌱 I’m interested in <strong>MLOps</strong> and many exciting things.<br>
   💞️ I’m looking to collaborate on <a href="https://github.com/KweeksNews">@KweeksNews</a>, <a href="https://github.com/Terang-Bulan">@Terang Bulan</a> and <a href="https://github.com/Quipkit-Space">@Quipkit</a>.<br>
-  📫 Reach me on Instagram: <a href="https://instagram.com/27repository">@27repository</a>.
+  📫 Reach me on Instagram: <a href="https://instagram.com/wildannaziz">@wildannaziz</a>.
 </p>
 
 
