@@ -1,8 +1,10 @@
-<h1 align="center">👋 Hi, I’m @wildanaziz</h1>
+<h1 align="center"> Hi, I’m @wildanaziz</h1>
 <p align="center">
-  🌱 I’m interested in <strong>MLOps</strong> and many exciting things.<br>
-  💞️ I’m looking to collaborate on <a href="https://github.com/KweeksNews">@KweeksNews</a>, <a href="https://github.com/Terang-Bulan">@Terang Bulan</a> and <a href="https://github.com/Quipkit-Space">@Quipkit</a>.<br>
-  📫 Reach me on Instagram: <a href="https://instagram.com/wildannaziz">@wildannaziz</a>.
+  🌱 I’m interested in <strong>AI, LLM, CompViz, MLOps</strong> and many exciting things.<br>
+  💞️ I’m looking to collaborate on <a href="https://github.com/DTP-Fine-Tuning">@DTP Fine Tuning</a>, <a href="https://github.com/KweeksNews">@KweeksNews</a>, <a href="https://github.com/Terang-Bulan">@Terang Bulan</a> and <a href="https://github.com/Quipkit-Space">@Quipkit</a>.<br><br>
+  <strong>You can reach me on:</strong> <br>
+  🌐 Website: <a href="https://wildanaziz.vercel.app/">Wildan Aziz - Web</a> <br>
+  📫 Instagram: <a href="https://instagram.com/wildannaziz">@wildannaziz</a>
 </p>
 
 
