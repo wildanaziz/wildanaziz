@@ -25,7 +25,11 @@
   <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.gif" alt="📸" width="32" height="32">
-</picture> Instagram: <a href="https://instagram.com/wildannaziz">@wildannaziz</a>
+</picture> Instagram: <a href="https://instagram.com/wildannaziz">@wildannaziz</a> <br>
+  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f917/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f917/512.gif" alt="🤗" width="32" height="32">
+</picture>Hugging Face: <a href="https://huggingface.co/wildanaziz">wildanaziz</a>
 </p>
 
 
