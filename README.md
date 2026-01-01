@@ -38,20 +38,8 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2604_fe0f/512.gif" alt="☄" width="32" height="32">
 </picture>Statistics</h2>
 
-<div align="center">
-  <a href="https://github.com/wildanaziz">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=wildanaziz&theme=default&hide_border=true&border_radius=10px&custom_title=GitHub%20Stats&count_private=true&show_icons=true" alt="Wildan Aziz Stats">
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wildanaziz&theme=github_dark&hide_border=true&border_radius=10px&custom_title=GitHub%20Stats&count_private=true&show_icons=true">
-      <img alt="Wildan Aziz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wildanaziz&theme=default&hide_border=true&border_radius=10px&custom_title=GitHub%20Stats&count_private=true&show_icons=true">
-    </picture>
-  </a>
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanaziz&theme=default&hide_border=true&border_radius=10px&custom_title=GitHub%20Stats&count_private=true&show_icons=true&layout=compact">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanaziz&theme=github_dark&hide_border=true&border_radius=10px&custom_title=GitHub%20Stats&count_private=true&show_icons=true&layout=compact">
-    <img alt="Wildan Aziz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wildanaziz&theme=default&hide_border=true&border_radius=10px&custom_title=GitHub%20Stats&count_private=true&show_icons=true">
-  </picture>
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <div align="center">
   
