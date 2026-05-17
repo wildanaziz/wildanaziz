@@ -13,7 +13,7 @@
   <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
-</picture> I’m looking to collaborate on <a href="https://github.com/DTP-Fine-Tuning">@DTP Fine Tuning</a>, <a href="https://github.com/KweeksNews">@KweeksNews</a>, <a href="https://github.com/Terang-Bulan">@Terang Bulan</a> and <a href="https://github.com/Quipkit-Space">@Quipkit</a>.<br><br>
+</picture> I’m looking to collaborate on <a href="https://github.com/DTP-Fine-Tuning">@DTP Fine Tuning</a>, <a href="https://github.com/KweeksNews">@KweeksNews</a>, <a href="https://github.com/Terang-Bulan">@Terang Bulan</a> and <a href="https://github.com/Pintar-Technologies">@Pintar Technologies</a>.<br><br>
   <strong><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae3/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae3/512.gif" alt="🫣" width="32" height="32">
